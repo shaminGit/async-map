@@ -8,7 +8,7 @@ Async is Cool !!
 ## Install
 
 ```
-$ npm install async-operators
+$ npm install @pthread/async-operators
 ```
 
 ## Usage
