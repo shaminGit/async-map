@@ -1,5 +1,6 @@
 [![npm (scoped)](https://img.shields.io/github/issues/shaminGit/async-operators.svg)](https://www.npmjs.com/package/@pthread/async-operators)
 [![npm bundle size (minified)](https://img.shields.io/github/license/shaminGit/async-operators)](https://www.npmjs.com/package/@pthread/async-operators)
+[![npm bundle size (minified)](https://img.shields.io/github/forks/shaminGit/async-operators)](https://www.npmjs.com/package/@pthread/async-operators)
 
 # async-operators
 
