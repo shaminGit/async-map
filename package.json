@@ -1,0 +1,19 @@
+{
+    "name": "@pthread/async-operators",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shaminGit/async-operators.git"
+    },
+    "version": "1.0.1",
+    "description": "Perform Async Map, Reduce and Filter operations on array with callbacks",
+    "licence": "MIT",
+    "main": "./src/index.js",
+    "keywords": [
+        "async",
+        "npm",
+        "map",
+        "filter",
+        "reduce",
+        "await"
+    ]
+}
